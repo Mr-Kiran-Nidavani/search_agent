@@ -1,7 +1,7 @@
 [project]
 name = "search_agent"
 version = "0.1.0"
-description = "A basic Python project using UV"
+description = "Basic python agentic AI project for creating text document for the given topic using wikipedia and other sources"
 authors = [
     { name="Kiran", email="kiran.kumar035@gmail.com" }
 ]
