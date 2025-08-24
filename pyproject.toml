@@ -1,0 +1,13 @@
+[project]
+name = "search_agent"
+version = "0.1.0"
+description = "A basic Python project using UV"
+authors = [
+    { name="Kiran", email="kiran.kumar035@gmail.com" }
+]
+readme = "README.md"
+requires-python = ">=3.13"
+
+dependencies = [
+  "requests==2.32.5"
+]
