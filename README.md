@@ -23,7 +23,7 @@
  - Run command to install any packages - uv pip install requests
  - Run command to check installed packages - uv pip list
 
- #### install all de
+ #### install all dependencies
  - uv pip freeze > requirements.txt
  - uv pip install -r requirements.txt
 

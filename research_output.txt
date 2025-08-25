@@ -1,0 +1,2 @@
+Langchain
+LangChain is a framework designed for building applications powered by language models. It allows developers to create applications that can utilize different language processing tools and techniques, facilitating tasks like natural language understanding, conversation generation, and more. It offers features such as chaining together multiple components to create complex workflows that leverage the capabilities of language models.

@@ -3,11 +3,24 @@ name = "search_agent"
 version = "0.1.0"
 description = "Basic python agentic AI project for creating text document for the given topic using wikipedia and other sources"
 authors = [
-    { name="Kiran", email="kiran.kumar035@gmail.com" }
+    { name = "Kiran", email = "kiran.kumar035@gmail.com" }
 ]
 readme = "README.md"
 requires-python = ">=3.13"
 
 dependencies = [
-  "requests==2.32.5"
+  "annotated-types==0.7.0",
+  "beautifulsoup4==4.13.5",
+  "certifi==2025.8.3",
+  "charset-normalizer==3.4.3",
+  "idna==3.10",
+  "pydantic==2.11.7",
+  "pydantic-core==2.33.2",
+  "python-dotenv==1.1.1",
+  "requests==2.32.5",
+  "soupsieve==2.7",
+  "typing-extensions==4.14.1",
+  "typing-inspection==0.4.1",
+  "urllib3==2.5.0",
+  "wikipedia==1.4.0"
 ]
